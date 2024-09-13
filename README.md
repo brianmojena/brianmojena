@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Brian Mojena</h1>
-<h3 align="center">I'm a passionate FullStack</h3>
+<h1 align="center">Hola 👋, Me llamo Brian Mojena</h1>
+<h3 align="center">Soy un FullStack Apasionado</h3>
 
-- 💬 Ask me about **html, css, javscript, python, sql**
+- 💬 Pregúntame sobre **html, css, javscript, python, sql**
 
-- 📫 How to reach me **b1319323@gmail.com**
+- 📫 Como Contactarme **b1319323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
