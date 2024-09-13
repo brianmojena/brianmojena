@@ -3,7 +3,7 @@
 
 - 💬 Pregúntame sobre **html, css, javscript, python, sql**
 
-- 📫 Como Contactarme **b1319323@gmail.com**
+- 📫 Como contactarme **b1319323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
