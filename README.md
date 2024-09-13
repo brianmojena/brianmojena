@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Mojena</h1>
-<h3 align="center">Soy un FullStack Apasionado</h3>
+<h3 align="center">I'm a passionate FullStack</h3>
 
 - 💬 Ask me about **html, css, javscript, python, sql**
 
