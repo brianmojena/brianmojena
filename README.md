@@ -49,6 +49,6 @@ Swift · SwiftUI · SwiftData · Kotlin · Jetpack Compose · React · TypeScrip
 ## Let's connect
 
 LinkedIn: ...
-Email: ...
+Email: briandevlogs@outlook.com
 
 Building things I'd want to use myself.
