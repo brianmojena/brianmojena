@@ -1,14 +1,54 @@
-<h1 align="center">Hola 👋, Me llamo Brian Mojena</h1>
-<h3 align="center">Soy un FullStack Apasionado</h3>
+# Brian Mojena
 
-- 💬 Pregúntame sobre **html, css, javscript, python, sql**
+iOS-focused developer building complete products across mobile and web.
 
-- 📫 Como contactarme **b1319323@gmail.com**
+I specialize in native iOS development with Swift and SwiftUI, while bringing full-stack experience and AI integration skills to build products from idea to release.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brianmojena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmojena" height="30" width="40" /></a>
-</p>
+## Now
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Building modern iOS applications using:
+
+- SwiftUI
+- SwiftData
+- Swift Concurrency
+- MVVM architecture
+
+Exploring how AI can create meaningful experiences inside real applications — beyond simple integrations.
+
+## Also experienced with
+
+Android development:
+- Kotlin
+- Jetpack Compose
+
+Full-stack development:
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- Python
+
+## Projects
+
+### Orion
+Native iOS application built with SwiftUI, MVVM and SwiftData, exploring modern Apple ecosystem architecture and AI-powered experiences.
+
+### NexMusic
+iOS music application focused on media handling, user experience and native platform capabilities.
+
+### personalFinanceManager
+Full-stack finance application built with React, TypeScript and Supabase, including authentication, database management and interactive dashboards.
+
+### Sleep Reworker
+Published Minecraft project that went through the complete product cycle: development, documentation and distribution.
+
+## Stack
+
+Swift · SwiftUI · SwiftData · Kotlin · Jetpack Compose · React · TypeScript · Supabase · PostgreSQL · Python
+
+## Let's connect
+
+LinkedIn: ...
+Email: ...
+
+Building things I'd want to use myself.
